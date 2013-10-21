@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: OptionTree
- * Plugin URI:  http://wp.envato.com
- * Description: Theme Options UI Builder for WordPress. A simple way to create & save Theme Options and Meta Boxes for free or premium themes.
- * Version:     2.1.4
- * Author:      Derek Herman
+ * Plugin Name: The Knot
+ * Plugin URI:  http://www.therope.it
+ * Description: Theme Options UI Builder for WordPress.
+ * Version:     1.0
+ * Author:      The Rope
  * Author URI:  http://valendesigns.com
  * License:     GPLv3
  */
